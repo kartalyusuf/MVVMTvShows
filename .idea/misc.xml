@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProgramFiles/AndroidStudioProjects/MVVMTvShows/app/src/main/res/drawable/background_tv_show.xml" value="0.3758974358974359" />
         <entry key="..\:/ProgramFiles/AndroidStudioProjects/MVVMTvShows/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/ProgramFiles/AndroidStudioProjects/MVVMTvShows/app/src/main/res/layout/item_container_tv_show.xml" value="0.365625" />
       </map>
