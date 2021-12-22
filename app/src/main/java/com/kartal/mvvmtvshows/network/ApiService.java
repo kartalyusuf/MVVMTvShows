@@ -11,5 +11,5 @@ public interface ApiService {
     @GET("most-popular")
     Call<TVShowsResponse> getMostPopularTVShows(@Query("page") int page) ;
 
-    
+
 }
