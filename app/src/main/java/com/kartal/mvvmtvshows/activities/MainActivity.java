@@ -1,8 +1,10 @@
-package com.kartal.mvvmtvshows;
+package com.kartal.mvvmtvshows.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.kartal.mvvmtvshows.R;
 
 public class MainActivity extends AppCompatActivity {
 
