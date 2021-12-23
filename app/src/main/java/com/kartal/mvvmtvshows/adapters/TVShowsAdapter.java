@@ -38,7 +38,7 @@ public class TVShowsAdapter extends RecyclerView.Adapter<TVShowsAdapter.TVShowVi
     @Override
     public void onBindViewHolder(@NonNull TVShowViewHolder holder, int position) {
         holder.bindTVShow(tvShows.get(position));
-        
+
     }
 
     @Override
