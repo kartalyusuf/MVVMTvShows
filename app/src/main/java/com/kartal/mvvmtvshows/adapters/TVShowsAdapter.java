@@ -21,11 +21,11 @@ public class TVShowsAdapter extends RecyclerView.Adapter<TVShowsAdapter.TVShowVi
     private LayoutInflater layoutInflater;
     private TVShowsListener tvShowsListener;
 
+
     public TVShowsAdapter(List<TVShow> tvShows, TVShowsListener tvShowsListener) {
         this.tvShows = tvShows;
         this.tvShowsListener = tvShowsListener;
     }
-
 
 
     @NonNull
