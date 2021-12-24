@@ -18,6 +18,6 @@ public class TVShowDetailsViewModel extends ViewModel {
     public LiveData<TVShowDetailsResponse> getTVShowDetails(String tvShowId) {
         return tvShowDetailsRepository.getTVShowDetails(tvShowId);
 
-        
+
     }
 }
